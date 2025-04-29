@@ -1,0 +1,17 @@
+{
+  "name": "erc4337-hd-wallet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bip39": "^3.1.0",
+    "ethereumjs-wallet": "^1.0.2",
+    "ethers": "^6.13.7"
+  }
+}
